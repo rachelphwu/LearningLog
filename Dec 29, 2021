@@ -1,0 +1,49 @@
+###Objective 客觀
+
+關於今天的課程，你記得什麼？
+
+I'm close to completing a task that I wasn't able to last week... I almost gave up but I didn't.
+
+
+###Reflective 感受
+
+你要如何形容今天的情緒
+Surprised to see when something is finally working...
+
+
+###Interpretive 解釋反思
+
+我們今天學到了什麼？
+
+1. Undo in vim: esc + u 
+
+2. Curl:transfer data from a server (eg. website) --> Curl -s -L 
+-s	偵測該檔名是否存在且為『非空白檔案』？
+-L	該『檔名』是否存在且為一個連結檔？
+
+3. Grep: grep -1 (need space)
+-e	該『檔名』是否存在？(常用)
+
+4. Sed: useful for deleting sth 
+
+Questions:
+
+- Tried to put the link as variable [link= xxxx] but it doesn't work. Why?
+
+- Is there difference between -E and -e? 
+
+- What are the differences between Grep & Awk?
+
+今天一個重要的領悟是什麼？
+
+*** Test each step chronologically instead of trying the whole chunk. Make progress with one small step at a time.
+*** Don't give up...
+
+我們會如何用一句話形容今天的工作？  
+
+Rest and you will eventually find out the answer 
+
+有哪些工作需要明天繼續努力? 
+
+Complete the task and begin module 2 
+
