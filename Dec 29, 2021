@@ -24,7 +24,7 @@ Surprised to see when something is finally working...
             curl -s -L https://api.github.com/users/${user} | grep -E 'login|bio|location|url' | cut -d ':' -f2 
 
 3. Grep: grep -1 (with space)
--e	該『檔名』是否存在？(常用)
+-e  The difference between grep and extended grep is that extended grep includes meta characters that were added later. () {} ?
 - use grep & cut after sth with | (with space)
 - grep multiple strings with | (no space, under same quotation)
 
