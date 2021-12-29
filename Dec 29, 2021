@@ -21,14 +21,21 @@ Surprised to see when something is finally working...
 -s	偵測該檔名是否存在且為『非空白檔案』？
 -L	該『檔名』是否存在且為一個連結檔？
 
-3. Grep: grep -1 (need space)
+            curl -s -L https://api.github.com/users/${user} | grep -E 'login|bio|location|url' | cut -d ':' -f2 
+
+3. Grep: grep -1 (with space)
 -e	該『檔名』是否存在？(常用)
+- use grep & cut after sth with | (with space)
+- grep multiple strings with | (no space, under same quotation)
 
 4. Sed: useful for deleting sth 
 
+
 Questions:
 
-- Tried to put the link as variable [link= xxxx] but it doesn't work. Why?
+- Tried to put the link as variable but it doesn't work. Why?
+           
+           link= xxxx
 
 - Is there difference between -E and -e? 
 
