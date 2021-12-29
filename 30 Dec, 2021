@@ -26,6 +26,8 @@ OR
 
 grep -e login -e bio -e location -e '"url"'
 
+Questions:
+- How to grep things in the order I typed in the patterns?
 
 今天一個重要的領悟是什麼？
 
@@ -33,5 +35,6 @@ grep -e login -e bio -e location -e '"url"'
 我們會如何用一句話形容今天的工作？  
 
 
-有哪些工作需要明天繼續努力? 
+有哪些工作需要明天繼續努力?  
+
 
