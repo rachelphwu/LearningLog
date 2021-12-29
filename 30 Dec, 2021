@@ -8,11 +8,23 @@
 你要如何形容今天的情緒
 
 
-
 ###Interpretive 解釋反思
 
 我們今天學到了什麼？
 
+1. delete a line on vim: esc, highlight the line, dd
+
+2. sed: delete sth from the extract
+- delete multiple things with |
+
+   cut -d ':' -f2,3 | sed 's/"//g' | sed 's/,//g'
+
+3. grep
+
+grep -E 'login|bio|location|"url"'
+OR
+
+grep -e login -e bio -e location -e '"url"'
 
 
 今天一個重要的領悟是什麼？
