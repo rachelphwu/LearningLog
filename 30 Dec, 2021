@@ -2,11 +2,14 @@
 
 關於今天的課程，你記得什麼？
 
+-You can count on node
+-node.js allows us to write javascript on terminal
 
 ###Reflective 感受
 
 你要如何形容今天的情緒
 
+-Excited about completing my homework finally
 
 ###Interpretive 解釋反思
 
@@ -23,7 +26,6 @@
 
 grep -E 'login|bio|location|"url"'
 OR
-
 grep -e login -e bio -e location -e '"url"'
 
 Questions:
@@ -31,10 +33,14 @@ Questions:
 
 今天一個重要的領悟是什麼？
 
+Google is your friend.
 
 我們會如何用一句話形容今天的工作？  
 
+Start a new page
 
 有哪些工作需要明天繼續努力?  
+
+Try to complete the JS course 
 
 
