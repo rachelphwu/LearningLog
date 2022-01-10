@@ -12,6 +12,8 @@
 
 - What did we learn today? -
 
+Delete all lines on vim: :1,$d
+
 
 - What is an important realization? -
 
