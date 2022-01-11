@@ -2,23 +2,32 @@
 
 - What do you remember from today's course? - 
 
+1. if, else formatting
+2. var score = 60
+var message = score >= 60 ? "pass" : "fail"
 
 ###Reflective 
 
 - How do you describe your emotions? - 
 
+Feeling a bit annoyed because the learning progress is slowing down...
+can't wait to do the homework and trying things out on my own. 
 
 ###Interpretive 
 
 - What did we learn today? -
 
-Delete all lines on vim: :1,$d
+1. Delete all lines on vim: :1,$d
 
 
 - What is an important realization? -
 
+1. That maybe it's time to switch to CS50, accompanied by codecademy? The courses are getting boring when no real attempt is involved. 
 
 - How to describe today's progress with one sentence? -
 
+Not much
 
 - What are the things we need to keep working on tomorrow? - 
+
+The mini tasks 
