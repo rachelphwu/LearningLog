@@ -1,0 +1,43 @@
+###Objective 
+
+- What do you remember from today's course? - 
+
+- There are many built-in functions for number
+- All types except object are primitive values which are immutable. When initiating a function, it's returning a new 記憶體位置
+  a = a.toUpperCase()
+
+
+###Reflective 
+
+- How do you describe your emotions? - 
+
+Excited, because I can finally try to write programs.
+
+###Interpretive 
+
+- What did we learn today? -
+
+- To debug: console.log
+- "return" signifies the last action of a function. Whatever written after will be neglected.
+- Functions for numbers including: 
+  rounding up/down/off, [ceil/floor/round] // getting integers or decimal place // random no. // from number to string // from string to number
+ - Functions for strings including:
+   Lower,upper case// delete space (trim) // replace a word // find a word // charcoal
+ - Functions for array, which is an object:
+   Array unchanged: join with (eg. ,) // slice
+   Array changed: apply functions to all elements (map) // add or delete an element (splice) // sort order //
+
+
+- What is an important realization? 
+
+Developer.Mozilla.org will help 
+
+
+- How to describe today's progress with one sentence? -
+
+Not enough! Let's keep it going
+
+
+- What are the things we need to keep working on tomorrow? - 
+
+understand the execution sequence of for loop...confused 
