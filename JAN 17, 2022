@@ -2,6 +2,9 @@
 
 1. What do you remember from today's course?
 
+- never put var total = 0 inside a function! It will go back to 0....
+- unexpected end of input: check if you're missing a bracket or have an extra symbol like "˜"
+
 
 ###Reflective 
 
@@ -17,3 +20,5 @@
 5. How to describe today's progress with one sentence? -
 
 6. What are the things we need to keep working on tomorrow? -
+i=1?
+
