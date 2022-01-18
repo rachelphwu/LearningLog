@@ -4,7 +4,7 @@
 
 - never put var total = 0 inside a function! It will go back to 0....
 - unexpected end of input: check if you're missing a bracket or have an extra symbol like "˜"
-
+- console.log(already have a new line) 
 
 ###Reflective 
 
