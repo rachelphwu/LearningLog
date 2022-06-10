@@ -1,0 +1,42 @@
+###Reflective : How do you describe your emotions? 
+
+Excited
+
+
+###Interpretive : What did we learn today?
+
+1. SIMPLIFY A FUNCTION WITH SMALL FUNCTIONS 
+
+eg. To create a function that can print out all 9x9 multiplication tables
+
+Step 1: Create a small function(n) to print out n x 1 until n x 9  
+Step 2: Create a function n = i, n++ 
+Step 3: Combine! 
+
+2. DON'T DOUBLE 
+If the first function has console.log, don't do it again in the next function 
+
+
+function table(n){
+for(var i=1; i<10; i++){
+ console.log( n + "*" + i + "=" + n*i)}
+ }
+
+function table9to9(){
+ for(var t=1; t<10; t++){
+ table(t)}                               <<<< No need to console.log again
+  }
+
+table9to9()
+
+
+
+#What is an important realization? 
+
+
+
+#How to describe today's progress with one sentence? 
+
+
+#What are the things we need to keep working on tomorrow? 
+
