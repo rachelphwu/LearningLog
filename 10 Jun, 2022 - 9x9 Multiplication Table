@@ -13,6 +13,7 @@ Step 1: Create a small function(n) to print out n x 1 until n x 9
 Step 2: Create a function n = i, n++ 
 Step 3: Combine! 
 
+
 2. DON'T DOUBLE 
 If the first function has console.log, don't do it again in the next function 
 
@@ -30,8 +31,6 @@ function table9to9(){
 table9to9()
 
 
-
-#What is an important realization? 
 
 
 
