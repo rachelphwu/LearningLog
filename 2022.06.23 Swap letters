@@ -1,0 +1,31 @@
+2022.06.23 Swap letters 
+
+###Reflective : How do you describe your emotions? 
+
+Got another puzzle solved! 
+
+
+###Interpretive : What did we learn today?
+
+1. Delete on vim
+   - a whole chunk: 
+   - a sentence: esc + :d 
+ 
+2. String.fromCharCode() = static (whole chunk command)
+
+3. ASCII code of Letters 
+   - small letters = 97-122 
+   - capital letters = 65 - 90 
+   - the difference = 32 
+   
+#What is an important
+
+1. Answers from the other learners might not work....
+
+#How to describe today's progress with one sentence? 
+
+1. Great! Completed another ex. 
+
+#What are the things we need to keep working on tomorrow? 
+
+1. New ex. 
