@@ -1,3 +1,4 @@
+2022.06.22 Reverse a string
 ###Reflective : How do you describe your emotions? 
 
 Got another puzzle solved! 
@@ -14,6 +15,10 @@ Got another puzzle solved!
    - join = arr.join("")
    - text = join.toString()
    - console.log(text)
+   
+ 6. Alternative way: 
+ 
+ 
 
 #What is an important
 
