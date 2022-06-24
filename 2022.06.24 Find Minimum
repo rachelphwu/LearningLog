@@ -1,0 +1,29 @@
+2022.06.24 Find Minimum
+
+###Reflective : How do you describe your emotions? 
+
+Got another puzzle solved! 
+
+
+###Interpretive : What did we learn today?
+
+1. Array.splice (remove an element) changes both the array and array.length!!
+   >>> declare n = array.length before for loop 
+
+function findMin(input) {
+   var n = input.length
+   for(var i=0; i<=n; i++){
+   
+#What is an important
+
+2. It is not necessary to split an array    [1,2,3] Y  [1] [2] [3] N
+
+
+#How to describe today's progress with one sentence? 
+
+1. Great! Completed another ex. 
+
+
+#What are the things we need to keep working on tomorrow? 
+
+1. New ex. 
