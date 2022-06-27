@@ -8,7 +8,7 @@ Got another puzzle solved!
 ###Interpretive : What did we learn today?
 
 1. Delete on vim
-   - a whole chunk: 
+   - a whole chunk: 5dd
    - a sentence: esc + :d 
  
 2. String.fromCharCode() = static (whole chunk command)
